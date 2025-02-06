@@ -1,5 +1,8 @@
 # 💫 About Me:
-![Hostinger](https://img.shields.io/badge/hostinger-backend_developer-%23673de6.svg?style=flat-square&logo=hostinger&logoColor=white)
+💬 I'm comprehensive developer and software development is my passion
+
+## 🤝 Currently working at
+[![Hostinger](https://img.shields.io/badge/hostinger-backend_developer-%23673de6.svg?style=flat-square&logo=hostinger&logoColor=white)](https://hostinger.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/algirdasci) 
