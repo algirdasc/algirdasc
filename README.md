@@ -1,7 +1,7 @@
 # 💫 About Me:
-💬 I'm comprehensive developer and software development is my passion
+💬 I'm comprehensive developer and software development is my passion. I love consistent code and attention to details. Home automation is my hobby :)
 
-## 🤝 Currently working at
+## 🤝 Currently working at:
 [![Hostinger](https://img.shields.io/badge/hostinger-backend_developer-%23673de6.svg?style=flat-square&logo=hostinger&logoColor=white)](https://hostinger.com)
 
 ## 🌐 Socials:
